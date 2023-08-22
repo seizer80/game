@@ -1,0 +1,12 @@
+button {
+  background-color: transparent;
+  border: 1px solid navy;
+  padding: 40px;
+  font-size: 1.4rem;
+}
+
+button:hover {
+  background-color: red;
+  border: none;
+  color: white;
+}
